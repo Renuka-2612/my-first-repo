@@ -1,4 +1,0 @@
-num=int(input("Enter any three numbers:")
-num=a+b+c
-
-print(num)
