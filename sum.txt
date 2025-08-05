@@ -1,3 +1,4 @@
-num=int(input("Enter any two numbers:")
-c=a+b
-print(c)
+num=int(input("Enter any three numbers:")
+num=a+b+c
+
+print(num)
